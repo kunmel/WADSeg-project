@@ -1,5 +1,5 @@
 # WADSeg
-This is the code for our paper WADSeg: Exploiting Weak Attention Associations for Enhanced Knowledge Segmentation in RAG. (Under Review)
+This is the code for our paper **WADSeg: Exploiting Weak Attention Associations for Enhanced Knowledge Segmentation in RAG. (Under Review)**
 
 WADSeg is designed to be a modular optimization method for Retrieval-Augmented Generation (RAG) frameworks, focusing on knowledge segmentation. It utilizes weak attention associations to identify semantic discontinuities in text documents, leading to improved retrieval accuracy and reasoning capabilities in Large Language Models (LLMs).
 
